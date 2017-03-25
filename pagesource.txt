@@ -1,0 +1,383 @@
+<html><head>
+<title>Welcome: Mercury Tours</title>
+<script language="JavaScript">
+function changeStyle(obj, new_style) {
+obj.className = new_style
+}
+</script>
+<style type="text/css">
+.menu {
+BACKGROUND-COLOR: white; BORDER-BOTTOM: COLOR: menutext; CURSOR: default; FONT-FAMILY: MS Sans Serif; FONT-SIZE: 10pt; LINE-HEIGHT: 100%; POSITION: absolute; VISIBILITY: hidden
+}
+.visibleMenu {
+BORDER-BOTTOM: COLOR: menutext; CURSOR: default; FONT-FAMILY: MS Sans Serif; FONT-SIZE: 10pt; LINE-HEIGHT: 100%; POSITION: absolute; VISIBILITY: visible
+}
+.menuItem {
+POSITION: relative; COLOR: menutext; TEXT-DECORATION: none
+}
+.menuItemOver {
+POSITION: relative; COLOR: highlighttext; TEXT-DECORATION: none
+}
+.menuItemOver A {
+POSITION: relative; COLOR: highlighttext; CURSOR: default; TEXT-DECORATION: none
+}
+.menuItem A {
+POSITION: relative; COLOR: menutext; CURSOR: default; TEXT-DECORATION: none
+}
+.more {
+FONT-FAMILY: WebDings; POSITION: relative; TEXT-ALIGN: right; Z-INDEX: 100
+}
+.mouseOut {BACKGROUND: orange; FONT-Weight: bold;FONT-FAMILY: Helvetica; FONT-SIZE: 8pt;align="center"}
+.mouseOver {BACKGROUND: "#FFC455"; FONT-Weight: bold;FONT-FAMILY: Helvetica; FONT-SIZE: 8pt; align="center"}
+</style></head>
+<body>
+<div>
+<table border="0" height="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" bgcolor="#003366">      <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td halign="center" valign="top" bgcolor="#003366">
+
+<!--NAVIGATION BAR REGION START-->
+<table border="0" align="center" width="110" cellspacing="0" cellpadding="8">
+<tbody><tr valign="top">
+<td>
+<p align="center"><img src="/images/nav/logo.gif" alt="Mercury Tours" height="110" width="100"><br>	  </p>
+<table border="2" align="center" cellspacing="0" cellpadding="2" bordercolor="#000000">
+<tbody><tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><font color="#000000"><a href="mercurywelcome.php?osCsid=5fec60ae55335223c0f87350cae72e17">Home</a></font></td>
+</tr>
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><a href="mercuryreservation.php?osCsid=5fec60ae55335223c0f87350cae72e17">Flights</a></td></tr>
+
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">Hotels</a></td>
+</tr>
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><font color="#000000"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">Car Rentals</a></font></td>
+</tr>
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><a href="mercurycruise.php?osCsid=5fec60ae55335223c0f87350cae72e17">Cruises</a></td>
+</tr>
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+
+<td height="19" width="80" bgcolor="#FFC455"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">Destinations</a></td>
+</tr>
+<tr class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')">
+<td height="19" width="20"></td>
+<td height="19" width="80" bgcolor="#FFC455"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">Vacations</a></td>
+</tr></tbody></table>
+<p align="center"><img src="/images/nav/html.gif" border="0" height="61" width="100">
+<font color="white" size="1" face="Arial, Helvetica, sans-serif"><u>Use Java Version</u></font></p>
+<p align="center"><img src="/images/nav/boxad1.gif" height="78" width="88"></p>
+</td></tr>
+</tbody></table>
+
+<!--NAVIGATION BAR REGION END-->
+
+    </td>
+		</tr></tbody></table>
+    </td>
+    <td valign="top">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td height="63" bgcolor="#003366">
+
+<!--AD REGION START-->
+<img src="/images/banner2.gif" border="0" vspace="4" hspace="8" height="63" width="488">
+
+<!--AD REGION END-->
+
+          </td>
+       </tr>
+      <tr>
+        <td align="right" height="16" bgcolor="#FF9900">
+
+
+
+<!--HEADER REGION START-->
+<table border="1" background=" black" height=" 16" cellspacing="0" cellpadding="0" bordercolor="#000000">
+  <tbody><tr>
+
+    <td class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')" align="center" height="33" width="67"><a href="mercurysignon.php?osCsid=5fec60ae55335223c0f87350cae72e17">SIGN-ON</a></td>
+    <td class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')" align="center" height="33" width="77"><a href="mercuryregister.php?osCsid=5fec60ae55335223c0f87350cae72e17">REGISTER</a></td>
+    <td class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')" align="center" height="33" width="73"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">SUPPORT</a></td>
+    <td class="mouseOut" onmouseout="changeStyle(this, 'mouseOut')" onmouseover="changeStyle(this, 'mouseOver')" align="center" height="33" width="74"><a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">CONTACT</a></td>
+  </tr>
+</tbody></table>
+
+<!--HEADER REGION END-->
+
+        </td>
+      </tr>
+      <tr>
+        <td align="right" height="14">
+
+
+
+<!--Space REGION START-->
+
+<!--Space REGION END-->
+
+        </td>
+
+      </tr>
+      <tr>
+        <td>
+
+<!--CONTENT REGION START-->
+				<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				  <td width="14">
+				    
+				  </td>
+				<td>
+
+<table border="0" width="492" cellspacing="0" cellpadding="0">
+  <tbody><tr>  </tr>
+  <tr>
+    <td valign="top" width="273"> 
+      <p><img src="/images/featured_destination.gif" alt="Featured Destination: Aruba" height="298" width="273"></p>
+      <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td width="273"><img src="/images/hdr_specials.gif" alt="Specials" height="20" width="270"></td>
+        </tr>
+        <tr>
+
+          <td><img src="/images/spacer.gif" height="10" width="1"></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="101">
+            <table border="0" width="270" cellspacing="0" cellpadding="2">
+              <tbody><tr bgcolor="#CCCCCC"> 
+                <td width="80%"><font size="2" face="Arial, Helvetica, sans-serif, Verdana">Atlanta 
+                  to Las Vegas</font></td>
+                <td width="20%">
+                  <div align="right"><font size="2" face="Arial, Helvetica, sans-serif, Verdana"><b>$398</b></font></div>
+
+                </td>
+              </tr>
+              <tr>
+                <td height="10" width="80%"><font size="2" face="Arial, Helvetica, sans-serif">Boston 
+                  to San Francisco</font></td>
+                <td height="10" width="20%">
+                  <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><b>$513</b></font></div>
+                </td>
+              </tr>
+
+              <tr bgcolor="#CCCCCC">
+                <td width="80%"><font size="2" face="Arial, Helvetica, sans-serif">Los 
+                  Angeles to Chicago</font></td>
+                <td width="20%">
+                  <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><b>$168</b></font></div>
+                </td>
+              </tr>
+              <tr>
+                <td width="80%"><font size="2" face="Arial, Helvetica, sans-serif">New 
+                  York to Chicago</font></td>
+
+                <td width="20%">
+                  <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><b>$198</b></font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#CCCCCC"> 
+                <td height="19" width="80%"><font size="2" face="Arial, Helvetica, sans-serif">Phoenix 
+                  to San Francisco</font></td>
+                <td height="19" width="20%">
+                  <div align="right"><font size="2" face="Arial, Helvetica, sans-serif"><b>$213</b></font></div>
+
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+
+      <table border="0" width="277" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+
+          <td colspan="2"><br>
+            <img src="/images/hdr_tips.gif" alt="Tour Tips" height="20" width="270"></td>
+        </tr>
+        <tr>
+          <td colspan="2" width="274"><img src="/images/spacer.gif" height="10" width="1"></td>
+        </tr>
+        <tr>
+          <td width="84"><img src="/images/tip93.gif" alt="Tip#93" height="47" width="70"></td>
+          <td valign="top" width="190"><font size="2" face="Arial, Helvetica, sans-serif, Verdana">Always 
+            carry a travel first aid kit with bandages, antacids, aspirin, bee
+            sting wipes, and other basic necessities.</font></td>
+
+        </tr>
+      </tbody></table>
+      <p>&nbsp; </p>
+      <p>&nbsp; </p>
+    </td>
+    <td width="216">&nbsp;&nbsp;&nbsp;</td>
+    <td valign="top" width="192"> 
+      <form method="post" action="login.php" name="home"><input name="osCsid" value="5fec60ae55335223c0f87350cae72e17" type="hidden">
+	<input name="action" value="process" type="hidden">
+        <table border="0" width="192" cellspacing="0" cellpadding="0">
+          <tbody><tr align="right">
+            <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif, Verdana"><b>Mar 24, 2017</b></font></td>
+          </tr>
+          <tr>
+            <td colspan="2"><img src="/images/spacer.gif" height="10" width="1"></td>
+          </tr>
+          <tr>
+
+            <td><img src="/images/hdr_findflight.gif" alt="Find a Flight" height="20" width="88"></td>
+            <td><img src="/images/hdr_right.gif" height="20" width="104"></td>
+          </tr>
+          <tr>
+            <td colspan="2"> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="3">
+                <tbody><tr>
+                  <td colspan="2"><font size="2" face="Arial, Helvetica, sans-serif">Registered 
+                    users can <b>sign-in here</b> to find the lowest fare on participating
+                    airlines.</font> </td>
+
+                </tr>
+                <tr>
+                  <td align="right"><font size="2" face="Arial, Helvetica, sans-serif">User 
+                    Name: </font></td>
+                  <td width="112">
+                    <input name="userName" size="10" type="text">
+                  </td>
+                </tr>
+                <tr>
+
+                  <td align="right"><font size="2" face="Arial, Helvetica, sans-serif">Password:</font></td>
+                  <td width="112">
+                    <input name="password" size="10" type="password">
+                  </td>
+                </tr>
+                <tr>
+                  <td align="right">&nbsp;</td>
+                  <td width="112"> 
+                    <div align="center"><input name="login" value="Login" src="/images/btn_signin.gif?osCsid=5fec60ae55335223c0f87350cae72e17" alt="Sign-In" border="0" type="image" height="17" width="58">
+
+					</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="2"><img src="/images/spacer.gif" height="2" width="1"></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+
+          <tr>
+            <td><img src="/images/hdr_destinations.gif" alt="Desinations" height="20" width="88"></td>
+            <td><img src="/images/hdr_right.gif" height="20" width="104"></td>
+          </tr>
+          <tr>
+            <td colspan="2"> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="3">
+                <tbody><tr>
+                  <td align="center" width="80"><img src="/images/icn_destinations.gif" height="34" width="34"></td>
+
+                  <td width="100"><font size="2" face="Arial, Helvetica, sans-serif, Verdana">Find
+                    detailed information about <a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">your destination</a>.</font> 
+                  </td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/hdr_vacation.gif" alt="vacations" height="20" width="88"></td>
+
+            <td><img src="/images/hdr_right.gif" height="20" width="104"></td>
+          </tr>
+          <tr>
+            <td colspan="2"> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="3">
+                <tbody><tr>
+                  <td align="center" width="80"><img src="/images/icn_vacations.gif" height="37" width="40"></td>
+                  <td width="100"><font size="2" face="Arial, Helvetica, sans-serif, Verdana">Read
+                    about our <a href="mercuryunderconst.php?osCsid=5fec60ae55335223c0f87350cae72e17">featured vacation destinations</a>.</font></td>
+
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/hdr_register.gif" alt="Register" height="20" width="88"></td>
+            <td><img src="/images/hdr_right.gif" height="20" width="104"></td>
+          </tr>
+          <tr>
+
+            <td colspan="2"> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="3">
+                <tbody><tr>
+                  <td align="center" width="80"><img src="/images/icn_register.gif" height="35" width="42"></td>
+                  <td width="100"><font size="2" face="Arial, Helvetica, sans-serif, Verdana"><a href="mercuryregister.php?osCsid=5fec60ae55335223c0f87350cae72e17">Register 
+                    here</a> to join Mercury Tours!</font> </td>
+                </tr>
+              </tbody></table>
+
+            </td>
+          </tr>
+          <tr>
+            <td><img src="/images/hdr_links.gif" alt="Links" height="20" width="88"></td>
+            <td><img src="/images/hdr_right.gif" height="20" width="104"></td>
+          </tr>
+          <tr>
+            <td colspan="2"> 
+              <table border="0" width="100%" cellspacing="0" cellpadding="3">
+
+                <tbody><tr>
+                  <td> <font size="2" face="Arial, Helvetica, sans-serif, Verdana"> <br>
+                    <a href="http://businesstravel.about.com/mbody.htm?PM=78_101_T&amp;cob=home">Business 
+                    Travel @ About.com</a><br>
+                    <a href="http://www.salon.com/travel/index.html">Salon Travel</a></font></td>
+                </tr>
+              </tbody></table>
+            </td>
+
+          </tr>
+        </tbody></table>
+      </form>
+      <p>&nbsp; </p>
+    </td>
+  </tr>
+</tbody></table>
+				</td>
+				</tr>
+
+				</tbody></table>
+
+<!--CONTENT REGION END-->
+
+        </td>
+      </tr>
+     <tr>
+      <td>
+
+<!--FOOTER REGION START-->
+
+
+<!--FOOTER REGION START-->
+<div class="footer">
+© 2005, Mercury Interactive (v. 011003-1.01-058)
+</div>
+<!--FOOTER REGION END-->
+
+
+<!--FOOTER REGION END-->
+
+      </td>
+     </tr>
+      
+    
+
+  </tbody></table>
+</td></tr></tbody></table>
+</div>
+
+</body></html>
